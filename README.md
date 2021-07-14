@@ -1,5 +1,5 @@
 # TinDog
-This project gives users an idea and overall feel of the business potential for this theoretical startup. 
+This project is a theoretical startup for dogs to find their perfect match through our application. 
 
 ## Tech Stack
 **Client:** HTML,CSS.
