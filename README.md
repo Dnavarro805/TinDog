@@ -1,4 +1,4 @@
-## TinDog
+# TinDog
 This project gives users an idea and overall feel of the business potential for this theoretical startup. 
 
 ## Tech Stack
